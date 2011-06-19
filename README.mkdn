@@ -1,0 +1,7 @@
+# Pool Finder - Finding pools with OpenCV
+
+This is a experiment algorithm to find pools on a picture.
+
+## Copyright
+
+Copyright (c) 2011 Thiago Pradi, released under the MIT license.
