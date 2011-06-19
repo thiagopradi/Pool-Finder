@@ -2,6 +2,14 @@
 
 This is a experiment algorithm to find pools on a picture.
 
+## Dependencies
+
+To use this project, you will need <a href="http://opencv.willowgarage.com/wiki/">OpenCV</a> and <a href="http://code.google.com/p/cvblob/">CvBlob</a>
+
+## Compile:
+
+        g++ `pkg-config opencv cvblob --cflags --libs` pool_finder.cpp
+
 ## Copyright
 
 Copyright (c) 2011 Thiago Pradi, released under the MIT license.
